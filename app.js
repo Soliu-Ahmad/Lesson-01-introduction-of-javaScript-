@@ -1,7 +1,9 @@
-
 //********************************* STRINGS (Single, double quotes & Back ticks) *********************************************************
 var variableName = "welcome to js";
+var variableName = "welcome to js journey";
 console.log(variableName);
+console.log(variableName);
+
 
 let reusable = "hello";
 console.log(reusable);
